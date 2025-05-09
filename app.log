@@ -1,0 +1,1106 @@
+2025-05-08 23:11:20,007 - tzlocal - DEBUG - Looking up time zone info from registry
+2025-05-08 23:11:20,037 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:11:20,037 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:11:20,038 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:11:20,039 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:11:20,039 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:11:20,040 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:11:20,041 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 35319.958249 seconds)
+2025-05-08 23:11:20,061 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:11:20,062 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:11:21,248 - matplotlib - DEBUG - matplotlib data path: C:\Python311\Lib\site-packages\matplotlib\mpl-data
+2025-05-08 23:11:21,273 - matplotlib - DEBUG - CONFIGDIR=C:\Users\ASUS\.matplotlib
+2025-05-08 23:11:21,276 - matplotlib - DEBUG - interactive is False
+2025-05-08 23:11:21,276 - matplotlib - DEBUG - platform is win32
+2025-05-08 23:11:21,390 - matplotlib - DEBUG - CACHEDIR=C:\Users\ASUS\.matplotlib
+2025-05-08 23:11:21,410 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\ASUS\.matplotlib\fontlist-v390.json
+2025-05-08 23:13:20,544 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:13:20,544 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:13:20,545 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:13:20,545 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:13:20,545 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:13:20,546 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:13:20,546 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 35199.453944 seconds)
+2025-05-08 23:13:20,583 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:13:20,584 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:13:28,452 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:13:28,452 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:13:28,453 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:13:28,453 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:13:28,453 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:13:28,454 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:13:28,455 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 35191.544263 seconds)
+2025-05-08 23:13:28,497 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:13:28,501 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:13:35,703 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:13:35,704 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:13:35,705 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:13:35,705 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:13:35,705 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:13:35,706 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:13:35,707 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 35184.292735 seconds)
+2025-05-08 23:13:35,754 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:13:35,756 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:14:01,672 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:14:01,673 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:14:01,673 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:14:01,674 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:14:01,674 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:14:01,674 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:14:01,675 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 35158.324970 seconds)
+2025-05-08 23:14:01,682 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:14:01,682 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:14:13,082 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:14:13,083 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:14:13,084 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:14:13,084 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:14:13,084 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:14:13,085 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:14:13,085 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 35146.914027 seconds)
+2025-05-08 23:14:13,123 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:14:13,124 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:14:38,684 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:14:38,684 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:14:38,685 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:14:38,685 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:14:38,685 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:14:38,686 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:14:38,686 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 35121.313043 seconds)
+2025-05-08 23:14:38,720 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:14:38,721 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:14:45,940 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:14:45,941 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:14:45,942 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:14:45,942 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:14:45,942 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:14:45,943 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:14:45,944 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 35114.055462 seconds)
+2025-05-08 23:14:45,987 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:14:46,002 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:15:34,138 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:15:34,139 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:15:34,139 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:15:34,139 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:15:34,139 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:15:34,140 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:15:34,140 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 35065.859394 seconds)
+2025-05-08 23:15:34,179 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:15:34,180 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:15:47,030 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:15:47,030 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:15:47,031 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:15:47,031 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:15:47,032 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:15:47,032 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:15:47,033 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 35052.966192 seconds)
+2025-05-08 23:15:47,066 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:15:47,067 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:16:02,041 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:16:02,042 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:16:02,043 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:16:02,043 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:16:02,043 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:16:02,044 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:16:02,044 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 35037.955763 seconds)
+2025-05-08 23:16:02,078 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:16:02,079 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:16:24,251 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:16:24,252 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:16:24,252 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:16:24,253 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:16:24,253 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:16:24,254 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:16:24,255 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 35015.744410 seconds)
+2025-05-08 23:16:24,303 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:16:24,304 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:58:04,363 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:04,364 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:04,364 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:58:04,364 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:58:04,365 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:58:04,365 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:58:04,366 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 00:00:00+07:00 (in 115.633727 seconds)
+2025-05-08 23:58:04,417 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:58:04,419 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:58:09,841 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:09,842 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:09,843 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:58:09,843 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:58:09,843 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:58:09,844 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:58:09,845 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 00:00:00+07:00 (in 110.154253 seconds)
+2025-05-08 23:58:09,881 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:58:09,884 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:58:11,422 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:11,423 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:11,423 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:58:11,423 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:58:11,424 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:58:11,425 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:58:11,425 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 00:00:00+07:00 (in 108.574117 seconds)
+2025-05-08 23:58:11,465 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:58:11,466 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:58:12,986 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:12,987 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:12,988 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:58:12,988 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:58:12,989 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:58:12,991 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:58:12,992 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 00:00:00+07:00 (in 107.007743 seconds)
+2025-05-08 23:58:13,034 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:58:13,035 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:58:13,569 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:13,570 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:13,570 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:58:13,571 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:58:13,571 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:58:13,572 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:58:13,572 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 00:00:00+07:00 (in 106.427382 seconds)
+2025-05-08 23:58:13,605 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:58:13,607 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:58:14,399 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:14,400 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:14,400 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:58:14,400 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:58:14,401 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:58:14,401 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:58:14,402 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 00:00:00+07:00 (in 105.597300 seconds)
+2025-05-08 23:58:14,445 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:58:14,447 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:58:15,435 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:15,436 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-08 23:58:15,437 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-08 23:58:15,437 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-08 23:58:15,437 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-08 23:58:15,439 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-08 23:58:15,439 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 00:00:00+07:00 (in 104.560418 seconds)
+2025-05-08 23:58:15,474 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-08 23:58:15,475 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 23:58:19,517 - __main__ - INFO - Email notification sent successfully to 4 receivers
+2025-05-09 00:00:00,010 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 00:00:00,011 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 00:00:00,011 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 00:00:00,011 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 00:00:00,011 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 00:00:00,011 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 00:00:00,011 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 00:00:00,017 - apscheduler.executors.default - INFO - Running job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-09 00:00:00 WIB)" (scheduled at 2025-05-09 00:00:00+07:00)
+2025-05-09 00:00:00,018 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 86399.981425 seconds)
+2025-05-09 00:00:00,033 - apscheduler.executors.default - INFO - Running job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-09 00:00:00 WIB)" (scheduled at 2025-05-09 00:00:00+07:00)
+2025-05-09 00:00:00,034 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 86399.965836 seconds)
+2025-05-09 00:00:00,035 - __main__ - INFO - Memulai daily check...
+2025-05-09 00:00:00,036 - apscheduler.executors.default - INFO - Running job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-09 00:00:00 WIB)" (scheduled at 2025-05-09 00:00:00+07:00)
+2025-05-09 00:00:00,036 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 86399.963835 seconds)
+2025-05-09 00:00:00,037 - __main__ - INFO - Memulai daily check...
+2025-05-09 00:00:00,038 - apscheduler.executors.default - INFO - Running job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-09 00:00:00 WIB)" (scheduled at 2025-05-09 00:00:00+07:00)
+2025-05-09 00:00:00,038 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 86399.961834 seconds)
+2025-05-09 00:00:00,039 - apscheduler.executors.default - INFO - Running job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-09 00:00:00 WIB)" (scheduled at 2025-05-09 00:00:00+07:00)
+2025-05-09 00:00:00,040 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 86399.959833 seconds)
+2025-05-09 00:00:00,040 - __main__ - INFO - Memulai daily check...
+2025-05-09 00:00:00,040 - apscheduler.executors.default - INFO - Running job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-09 00:00:00 WIB)" (scheduled at 2025-05-09 00:00:00+07:00)
+2025-05-09 00:00:00,041 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 86399.958835 seconds)
+2025-05-09 00:00:00,042 - apscheduler.executors.default - INFO - Running job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-09 00:00:00 WIB)" (scheduled at 2025-05-09 00:00:00+07:00)
+2025-05-09 00:00:00,043 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 86399.956833 seconds)
+2025-05-09 00:00:00,043 - __main__ - INFO - Memulai daily check...
+2025-05-09 00:00:00,045 - __main__ - INFO - Memulai daily check...
+2025-05-09 00:00:00,048 - __main__ - INFO - Memulai daily check...
+2025-05-09 00:00:00,050 - __main__ - INFO - Memulai daily check...
+2025-05-09 00:00:00,073 - apscheduler.executors.default - ERROR - Job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-10 00:00:00 WIB)" raised an exception
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\apscheduler\executors\base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Sender notif hari raya\app.py", line 308, in daily_check
+    send_notification(target_dates, days_before=days_before)
+TypeError: send_notification() got an unexpected keyword argument 'days_before'
+2025-05-09 00:00:00,075 - apscheduler.executors.default - ERROR - Job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-10 00:00:00 WIB)" raised an exception
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\apscheduler\executors\base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Sender notif hari raya\app.py", line 308, in daily_check
+    send_notification(target_dates, days_before=days_before)
+TypeError: send_notification() got an unexpected keyword argument 'days_before'
+2025-05-09 00:00:00,078 - apscheduler.executors.default - ERROR - Job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-10 00:00:00 WIB)" raised an exception
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\apscheduler\executors\base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Sender notif hari raya\app.py", line 308, in daily_check
+    send_notification(target_dates, days_before=days_before)
+TypeError: send_notification() got an unexpected keyword argument 'days_before'
+2025-05-09 00:00:00,078 - apscheduler.executors.default - ERROR - Job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-10 00:00:00 WIB)" raised an exception
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\apscheduler\executors\base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Sender notif hari raya\app.py", line 308, in daily_check
+    send_notification(target_dates, days_before=days_before)
+TypeError: send_notification() got an unexpected keyword argument 'days_before'
+2025-05-09 00:00:00,079 - apscheduler.executors.default - ERROR - Job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-10 00:00:00 WIB)" raised an exception
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\apscheduler\executors\base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Sender notif hari raya\app.py", line 308, in daily_check
+    send_notification(target_dates, days_before=days_before)
+TypeError: send_notification() got an unexpected keyword argument 'days_before'
+2025-05-09 00:00:00,079 - apscheduler.executors.default - ERROR - Job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-10 00:00:00 WIB)" raised an exception
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\apscheduler\executors\base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Sender notif hari raya\app.py", line 308, in daily_check
+    send_notification(target_dates, days_before=days_before)
+TypeError: send_notification() got an unexpected keyword argument 'days_before'
+2025-05-09 00:00:00,080 - apscheduler.executors.default - ERROR - Job "daily_check (trigger: cron[hour='0'], next run at: 2025-05-10 00:00:00 WIB)" raised an exception
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\apscheduler\executors\base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\Sender notif hari raya\app.py", line 308, in daily_check
+    send_notification(target_dates, days_before=days_before)
+TypeError: send_notification() got an unexpected keyword argument 'days_before'
+2025-05-09 00:00:32,274 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 00:00:32,274 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 00:00:32,275 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 00:00:32,276 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 00:00:32,276 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 00:00:32,277 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 00:00:32,278 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 86367.721505 seconds)
+2025-05-09 00:00:32,322 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-09 00:00:32,323 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 00:01:04,803 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 00:01:04,804 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 00:01:04,805 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 00:01:04,805 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 00:01:04,805 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 00:01:04,806 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 00:01:04,806 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 86335.193824 seconds)
+2025-05-09 00:01:04,850 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+2025-05-09 00:01:04,852 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:07:41,552 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:07:41,554 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:07:41,555 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:07:41,555 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:07:41,556 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:07:41,557 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:07:41,558 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 57138.441340 seconds)
+2025-05-09 08:07:41,598 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:07:41,599 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:07:43,082 - matplotlib - DEBUG - matplotlib data path: C:\Python311\Lib\site-packages\matplotlib\mpl-data
+2025-05-09 08:07:43,096 - matplotlib - DEBUG - CONFIGDIR=C:\Users\ASUS\.matplotlib
+2025-05-09 08:07:43,100 - matplotlib - DEBUG - interactive is False
+2025-05-09 08:07:43,101 - matplotlib - DEBUG - platform is win32
+2025-05-09 08:07:43,314 - matplotlib - DEBUG - CACHEDIR=C:\Users\ASUS\.matplotlib
+2025-05-09 08:07:43,325 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\ASUS\.matplotlib\fontlist-v390.json
+2025-05-09 08:08:21,483 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:08:21,483 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:08:21,484 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:08:21,485 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:08:21,485 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:08:21,486 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:08:21,486 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 57098.513731 seconds)
+2025-05-09 08:08:21,533 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:08:21,534 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:09:04,266 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:09:04,267 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:09:04,267 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:09:04,268 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:09:04,268 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:09:04,269 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:09:04,270 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 57055.729490 seconds)
+2025-05-09 08:09:04,322 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:09:04,323 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:09:23,224 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:09:23,225 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:09:23,225 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:09:23,226 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:09:23,226 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:09:23,227 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:09:23,228 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 57036.771527 seconds)
+2025-05-09 08:09:23,269 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:09:23,270 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:09:37,475 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:09:37,475 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:09:37,476 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:09:37,476 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:09:37,476 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:09:37,477 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:09:37,477 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 57022.522643 seconds)
+2025-05-09 08:09:37,517 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:09:37,518 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:09:47,719 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:09:47,720 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:09:47,721 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:09:47,721 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:09:47,722 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:09:47,722 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:09:47,723 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 57012.276496 seconds)
+2025-05-09 08:09:47,760 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:09:47,762 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:09:55,983 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:09:55,984 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:09:55,984 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:09:55,984 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:09:55,985 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:09:55,986 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:09:55,988 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 57004.012000 seconds)
+2025-05-09 08:09:56,029 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:09:56,030 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:10:30,652 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:10:30,654 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:10:30,661 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:10:30,664 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:10:30,665 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:10:30,665 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:10:30,666 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56969.333249 seconds)
+2025-05-09 08:10:30,733 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:10:30,733 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:10:30,904 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:10:30,905 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:10:30,905 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:10:30,906 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:10:30,906 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:10:30,907 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:10:30,907 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56969.092624 seconds)
+2025-05-09 08:10:30,941 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:10:30,941 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:10:39,772 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:10:39,772 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:10:39,773 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:10:39,774 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:10:39,774 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:10:39,775 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:10:39,775 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56960.224902 seconds)
+2025-05-09 08:10:39,812 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:10:39,813 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:10:39,949 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:10:39,949 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:10:39,950 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:10:39,951 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:10:39,951 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:10:39,952 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:10:39,953 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56960.046248 seconds)
+2025-05-09 08:10:39,989 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:10:39,990 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:10:40,041 - __main__ - INFO - Attempting to send test email using sender: your_email@gmail.com
+2025-05-09 08:10:40,041 - __main__ - INFO - Using password with length: 17
+2025-05-09 08:10:40,042 - __main__ - INFO - Connecting to SMTP server smtp.gmail.com:587...
+2025-05-09 08:10:40,859 - __main__ - INFO - SMTP connection established, initiating TLS...
+2025-05-09 08:10:41,292 - __main__ - INFO - TLS started, attempting login...
+2025-05-09 08:10:42,283 - __main__ - ERROR - Failed to send test email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-30ad48400absm2939999a91.9 - gsmtp')
+2025-05-09 08:11:56,786 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:11:56,787 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:11:56,787 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:11:56,788 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:11:56,788 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:11:56,789 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:11:56,789 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56883.210006 seconds)
+2025-05-09 08:11:56,829 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:11:56,829 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:12:06,724 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:12:06,725 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:12:06,726 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:12:06,726 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:12:06,726 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:12:06,727 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:12:06,728 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56873.272274 seconds)
+2025-05-09 08:12:06,766 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:12:06,767 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:12:06,920 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:12:06,920 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:12:06,921 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:12:06,922 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:12:06,922 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:12:06,923 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:12:06,923 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56873.076213 seconds)
+2025-05-09 08:12:06,959 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:12:06,961 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:12:07,010 - __main__ - INFO - Attempting to send test email using sender: lukasaustin16@gmail.com
+2025-05-09 08:12:07,011 - __main__ - INFO - Using password with length: 16
+2025-05-09 08:12:07,011 - __main__ - INFO - Connecting to SMTP server smtp.gmail.com:587...
+2025-05-09 08:12:07,247 - __main__ - INFO - SMTP connection established, initiating TLS...
+2025-05-09 08:12:07,668 - __main__ - INFO - TLS started, attempting login...
+2025-05-09 08:12:08,196 - __main__ - INFO - Login successful, sending email...
+2025-05-09 08:12:09,526 - __main__ - INFO - Email send command completed
+2025-05-09 08:12:09,719 - __main__ - INFO - Sent test email to 1 receivers: orlandob1oem@gmail.com
+2025-05-09 08:12:21,879 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:12:21,880 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:12:21,880 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:12:21,880 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:12:21,881 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:12:21,881 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:12:21,882 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56858.117576 seconds)
+2025-05-09 08:12:21,932 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:12:21,933 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:12:43,192 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:12:43,194 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:12:43,195 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:12:43,195 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:12:43,195 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:12:43,196 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:12:43,197 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56836.802710 seconds)
+2025-05-09 08:12:43,241 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:12:43,243 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:12:43,438 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:12:43,439 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:12:43,439 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:12:43,440 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:12:43,440 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:12:43,441 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:12:43,441 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56836.558964 seconds)
+2025-05-09 08:12:43,477 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:12:43,479 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:12:43,533 - __main__ - INFO - Attempting to send test email using sender: lukasaustin16@gmail.com
+2025-05-09 08:12:43,534 - __main__ - INFO - Using password with length: 16
+2025-05-09 08:12:43,534 - __main__ - INFO - Connecting to SMTP server smtp.gmail.com:587...
+2025-05-09 08:12:44,252 - __main__ - INFO - SMTP connection established, initiating TLS...
+2025-05-09 08:12:44,664 - __main__ - INFO - TLS started, attempting login...
+2025-05-09 08:12:45,188 - __main__ - INFO - Login successful, sending email...
+2025-05-09 08:12:46,347 - __main__ - INFO - Email send command completed
+2025-05-09 08:12:46,542 - __main__ - INFO - Sent test email to 1 receivers: ainur062005@gmail.com
+2025-05-09 08:13:14,502 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:13:14,503 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:13:14,503 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:13:14,503 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:13:14,504 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:13:14,504 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:13:14,505 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56805.494409 seconds)
+2025-05-09 08:13:14,553 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:13:14,570 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:13:27,318 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:13:27,322 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:13:27,323 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:13:27,323 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:13:27,324 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:13:27,325 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:13:27,325 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56792.674398 seconds)
+2025-05-09 08:13:27,372 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:13:27,372 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:13:27,530 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:13:27,530 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:13:27,531 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:13:27,532 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:13:27,532 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:13:27,534 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:13:27,534 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56792.465250 seconds)
+2025-05-09 08:13:27,572 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:13:27,572 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:13:31,179 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:13:31,179 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:13:31,180 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:13:31,180 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:13:31,181 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:13:31,182 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:13:31,182 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56788.817119 seconds)
+2025-05-09 08:13:31,228 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:13:31,230 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:13:34,959 - __main__ - INFO - Email notification sent successfully to 6 receivers
+2025-05-09 08:13:53,539 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:13:53,544 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:13:53,545 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:13:53,546 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:13:53,546 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:13:53,548 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:13:53,548 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56766.451733 seconds)
+2025-05-09 08:13:53,588 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:13:53,589 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:14:40,994 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:14:40,994 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:14:40,997 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:14:40,997 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:14:40,998 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:14:40,999 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:14:41,000 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56718.999590 seconds)
+2025-05-09 08:14:41,035 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:14:41,036 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:14:43,551 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:14:43,552 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:14:43,553 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:14:43,553 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:14:43,553 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:14:43,554 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:14:43,554 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56716.445634 seconds)
+2025-05-09 08:14:43,589 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:14:43,590 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:14:45,902 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:14:45,903 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:14:45,904 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:14:45,905 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:14:45,905 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:14:45,906 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:14:45,907 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56714.092561 seconds)
+2025-05-09 08:14:45,962 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:14:45,963 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:15:19,725 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:15:19,727 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:15:19,727 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:15:19,728 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:15:19,728 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:15:19,728 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:15:19,729 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56680.270478 seconds)
+2025-05-09 08:15:19,770 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:15:19,771 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:15:19,840 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-harilibur.vercel.app:443
+2025-05-09 08:15:20,147 - urllib3.connectionpool - DEBUG - https://api-harilibur.vercel.app:443 "GET /api?year=2025 HTTP/1.1" 200 None
+2025-05-09 08:15:20,151 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-harilibur.vercel.app:443
+2025-05-09 08:15:20,301 - urllib3.connectionpool - DEBUG - https://api-harilibur.vercel.app:443 "GET /api?year=2026 HTTP/1.1" 200 None
+2025-05-09 08:15:20,304 - __main__ - INFO - Updated holiday data
+2025-05-09 08:22:14,980 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:22:14,981 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:22:14,981 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:22:14,982 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:22:14,982 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:22:14,983 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:22:14,984 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56265.015316 seconds)
+2025-05-09 08:22:15,008 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:22:15,008 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:22:15,680 - matplotlib - DEBUG - matplotlib data path: C:\Python311\Lib\site-packages\matplotlib\mpl-data
+2025-05-09 08:22:15,691 - matplotlib - DEBUG - CONFIGDIR=C:\Users\ASUS\.matplotlib
+2025-05-09 08:22:15,694 - matplotlib - DEBUG - interactive is False
+2025-05-09 08:22:15,694 - matplotlib - DEBUG - platform is win32
+2025-05-09 08:22:15,808 - matplotlib - DEBUG - CACHEDIR=C:\Users\ASUS\.matplotlib
+2025-05-09 08:22:15,814 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\ASUS\.matplotlib\fontlist-v390.json
+2025-05-09 08:23:21,416 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:21,419 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:21,419 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:23:21,420 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:23:21,420 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:23:21,422 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:23:21,423 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56198.576115 seconds)
+2025-05-09 08:23:21,501 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:23:21,507 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:23:22,279 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:22,279 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:22,280 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:23:22,280 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:23:22,280 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:23:22,281 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:23:22,281 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56197.718180 seconds)
+2025-05-09 08:23:22,320 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:23:22,322 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:23:23,378 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:23,380 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:23,381 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:23:23,381 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:23:23,383 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:23:23,385 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:23:23,385 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56196.614240 seconds)
+2025-05-09 08:23:23,423 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:23:23,424 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:23:25,958 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:25,960 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:25,961 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:23:25,962 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:23:25,963 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:23:25,963 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:23:25,964 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56194.035742 seconds)
+2025-05-09 08:23:26,021 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:23:26,023 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:23:27,794 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:27,795 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:27,796 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:23:27,797 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:23:27,797 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:23:27,798 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:23:27,799 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56192.201243 seconds)
+2025-05-09 08:23:27,853 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:23:27,854 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:23:28,027 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:28,027 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:28,028 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:23:28,029 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:23:28,029 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:23:28,030 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:23:28,031 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56191.968184 seconds)
+2025-05-09 08:23:28,065 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:23:28,066 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:23:29,809 - __main__ - ERROR - SMTP error occurred: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22fc75491f5sm6326325ad.39 - gsmtp')
+2025-05-09 08:23:31,811 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:31,814 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:31,814 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:23:31,815 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:23:31,815 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:23:31,816 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:23:31,816 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56188.183693 seconds)
+2025-05-09 08:23:31,860 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:23:31,861 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:23:32,091 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:32,095 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:32,096 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:23:32,096 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:23:32,097 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:23:32,097 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:23:32,098 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56187.901355 seconds)
+2025-05-09 08:23:32,133 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:23:32,134 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:23:32,318 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:32,318 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:32,319 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:23:32,319 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:23:32,320 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:23:32,320 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:23:32,321 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56187.678115 seconds)
+2025-05-09 08:23:32,361 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:23:32,362 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:23:32,492 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:32,493 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:23:32,494 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:23:32,495 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:23:32,495 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:23:32,496 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:23:32,497 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56187.502115 seconds)
+2025-05-09 08:23:32,532 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:23:32,533 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:23:34,317 - __main__ - ERROR - SMTP error occurred: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-30c39df09dbsm701404a91.26 - gsmtp')
+2025-05-09 08:23:34,414 - __main__ - ERROR - SMTP error occurred: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-74237a0cdf0sm707088b3a.98 - gsmtp')
+2025-05-09 08:23:34,791 - __main__ - ERROR - SMTP error occurred: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-30ad4ffa91fsm2920549a91.42 - gsmtp')
+2025-05-09 08:25:09,856 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:25:09,857 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:25:09,858 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:25:09,858 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:25:09,858 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:25:09,859 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:25:09,859 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56090.140712 seconds)
+2025-05-09 08:25:09,893 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:25:09,894 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:25:22,477 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:25:22,489 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:25:22,490 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:25:22,493 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:25:22,493 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:25:22,503 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:25:22,507 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56077.492019 seconds)
+2025-05-09 08:25:22,550 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:25:22,551 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:25:23,320 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:25:23,321 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:25:23,321 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:25:23,321 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:25:23,322 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:25:23,322 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:25:23,323 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56076.676515 seconds)
+2025-05-09 08:25:23,362 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:25:23,363 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:25:25,782 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:25:25,783 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:25:25,784 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:25:25,784 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:25:25,784 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:25:25,785 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:25:25,786 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56074.213833 seconds)
+2025-05-09 08:25:25,827 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:25:25,828 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:25:27,228 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:25:27,229 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:25:27,229 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:25:27,230 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:25:27,230 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:25:27,231 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:25:27,231 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56072.768270 seconds)
+2025-05-09 08:25:27,307 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:25:27,308 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:25:27,455 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:25:27,455 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:25:27,456 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:25:27,457 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:25:27,457 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:25:27,458 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:25:27,459 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-10 00:00:00+07:00 (in 56072.540909 seconds)
+2025-05-09 08:25:27,491 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:25:27,492 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:25:29,247 - __main__ - ERROR - SMTP error occurred: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-74237a97dc4sm690626b3a.179 - gsmtp')
+2025-05-09 08:32:08,200 - tzlocal - DEBUG - Looking up time zone info from registry
+2025-05-09 08:32:08,205 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:32:08,205 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:32:08,206 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:32:08,206 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:32:08,206 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:32:08,207 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:32:08,208 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1671.791168 seconds)
+2025-05-09 08:32:08,258 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:32:08,259 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:32:09,900 - __main__ - ERROR - SMTP error occurred: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-74237a0cf76sm690990b3a.86 - gsmtp')
+2025-05-09 08:36:27,351 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:36:27,360 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:36:27,360 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:36:27,361 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:36:27,361 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:36:27,362 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:36:27,363 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1412.636575 seconds)
+2025-05-09 08:36:27,410 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:36:27,411 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:36:29,843 - __main__ - ERROR - SMTP error occurred: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-74237736e38sm716421b3a.60 - gsmtp')
+2025-05-09 08:36:31,572 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:36:31,573 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:36:31,573 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:36:31,574 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:36:31,574 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:36:31,575 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:36:31,575 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1408.424668 seconds)
+2025-05-09 08:36:31,617 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:36:31,621 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:36:48,559 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:36:48,560 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:36:48,560 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:36:48,561 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:36:48,561 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:36:48,562 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:36:48,562 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1391.437347 seconds)
+2025-05-09 08:36:48,601 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:36:48,602 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:36:49,382 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:36:49,383 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:36:49,384 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:36:49,384 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:36:49,385 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:36:49,385 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:36:49,386 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1390.613530 seconds)
+2025-05-09 08:36:49,425 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:36:49,426 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:36:51,136 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:36:51,136 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:36:51,137 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:36:51,138 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:36:51,138 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:36:51,139 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:36:51,139 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1388.860124 seconds)
+2025-05-09 08:36:51,178 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:36:51,179 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:36:51,329 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:36:51,331 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:36:51,331 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:36:51,332 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:36:51,333 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:36:51,334 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:36:51,335 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1388.664096 seconds)
+2025-05-09 08:36:51,370 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:36:51,371 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:36:53,036 - __main__ - ERROR - SMTP error occurred: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-30c39e6104bsm711059a91.33 - gsmtp')
+2025-05-09 08:38:48,992 - root - INFO - Loaded environment variables from .env.production
+2025-05-09 08:38:48,998 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:38:48,999 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:38:48,999 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:38:49,000 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:38:49,000 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:38:49,001 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:38:49,001 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1270.998541 seconds)
+2025-05-09 08:38:49,050 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:38:49,051 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:38:50,940 - root - INFO - Loaded environment variables from .env.production
+2025-05-09 08:38:50,944 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:38:50,944 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:38:50,945 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:38:50,945 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:38:50,946 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:38:50,947 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:38:50,950 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1269.049596 seconds)
+2025-05-09 08:38:50,989 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:38:50,990 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:38:51,153 - root - INFO - Loaded environment variables from .env.production
+2025-05-09 08:38:51,160 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:38:51,161 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:38:51,162 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:38:51,162 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:38:51,162 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:38:51,163 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:38:51,164 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1268.835966 seconds)
+2025-05-09 08:38:51,200 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:38:51,201 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:38:51,250 - __main__ - INFO - Attempting to send test email using sender: lukasaustin16@gmail.com
+2025-05-09 08:38:51,250 - __main__ - INFO - Using password with length: 16
+2025-05-09 08:38:51,251 - __main__ - INFO - Connecting to SMTP server smtp.gmail.com:587...
+2025-05-09 08:38:51,518 - __main__ - INFO - SMTP connection established, initiating TLS...
+2025-05-09 08:38:51,931 - __main__ - INFO - TLS started, attempting login...
+2025-05-09 08:38:52,457 - __main__ - INFO - Login successful, sending email...
+2025-05-09 08:38:53,798 - __main__ - INFO - Email send command completed
+2025-05-09 08:38:53,981 - __main__ - INFO - Sent test email to 1 receivers: ainur062005@gmail.com
+2025-05-09 08:42:24,443 - root - INFO - Loaded environment variables from .env
+2025-05-09 08:42:24,449 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:42:24,449 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:42:24,450 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:42:24,450 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:42:24,451 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:42:24,451 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:42:24,452 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1055.547258 seconds)
+2025-05-09 08:42:24,494 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:42:24,497 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:42:35,183 - root - INFO - Loaded environment variables from .env
+2025-05-09 08:42:35,188 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:42:35,189 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:42:35,189 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:42:35,190 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:42:35,190 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:42:35,191 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:42:35,191 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1044.808361 seconds)
+2025-05-09 08:42:35,239 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:42:35,240 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:42:37,385 - root - INFO - Loaded environment variables from .env
+2025-05-09 08:42:37,390 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:42:37,391 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:42:37,391 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:42:37,392 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:42:37,392 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:42:37,393 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:42:37,393 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1042.606813 seconds)
+2025-05-09 08:42:37,437 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:42:37,439 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:42:39,070 - root - INFO - Loaded environment variables from .env
+2025-05-09 08:42:39,080 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:42:39,082 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:42:39,083 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:42:39,083 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:42:39,084 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:42:39,085 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:42:39,086 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1040.913097 seconds)
+2025-05-09 08:42:39,140 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:42:39,141 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:42:39,681 - root - INFO - Loaded environment variables from .env
+2025-05-09 08:42:39,686 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:42:39,687 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 08:42:39,688 - apscheduler.scheduler - INFO - Added job "daily_check" to job store "default"
+2025-05-09 08:42:39,688 - apscheduler.scheduler - INFO - Added job "update_holidays" to job store "default"
+2025-05-09 08:42:39,688 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 08:42:39,689 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2025-05-09 08:42:39,689 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2025-05-09 09:00:00+07:00 (in 1040.310617 seconds)
+2025-05-09 08:42:39,730 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.92.52.70:5000
+2025-05-09 08:42:39,731 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 08:42:42,369 - __main__ - INFO - Email notification sent successfully to 1 receivers
